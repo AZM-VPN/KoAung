@@ -8,7 +8,16 @@
 
          "url": "https://raw.githubusercontent.com/AZM-VPN/KoAung/main/KA-1.ovpn"
 
-      }
+      },
+
+
+{
+
+         "name": "TH-VIP-002",
+
+         "url": "https://raw.githubusercontent.com/AZM-VPN/KoAung/main/KA-2.ovpn"
+
+}
 
      
 
@@ -16,10 +25,10 @@
 
    ],
 
-"message":"9 August 2023\n\n•Version:2\n\n•✅Add 1 VIP IP✅\n\n📢By : AungMinZaw📢",
+"message":"26 August 2023\n\n•Version:3\n\n•✅Add 1 VIP IP✅\n\n📢By : AungMinZaw📢",
 
    "title":"🎄New Game VPS🎄" ,
 
-   "version": 2
+   "version": 3
 
 }
